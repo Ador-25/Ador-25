@@ -1,5 +1,8 @@
-🔭 Microservices
-💬 Asp .Net Core
+🔭 Microservices 
+💻.NET Core
+📝 Golang
+💬 Software Engineer
+📫 abtahee.ador25@gmail.com
 
 <!--
 **Ador-25/Ador-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
