@@ -2,7 +2,7 @@
 💻.NET Core
 📝 Golang
 💬 Software Engineer
-📫 abtahee.ador25@gmail.com
+\n /n 📫 abtahee.ador25@gmail.com
 
 <!--
 **Ador-25/Ador-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
