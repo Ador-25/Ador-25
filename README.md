@@ -1,6 +1,6 @@
 <!-- Introduction or Brief Description -->
 
-***Software Engineer at US-Bangla***
+***Software Engineer***
 
 ***🔭 Microservices 💻.NET Core 📝 Golang***
 
